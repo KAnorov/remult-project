@@ -3,7 +3,7 @@ import Tile from "../demo/Tile";
 import Auth from "../demo/auth/Auth";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import TasksPage from "./api/tasks/page";
+import TasksPage from "./tasks/page";
 
 export default function Home() {
   return (
