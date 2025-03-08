@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e4vctenokra8xzno2bzaaffj",
+    "name": "Jane",
+    "password": "$2a$10$bmb5e8H.ThDVZEPoHe/Hoe3Ki2bjouR3zNogDZzYxUxPnP/5fofNa",
+    "admin": true,
+    "createdAt": "2025-03-08T08:52:52.645Z",
+    "providerType": "credentials",
+    "provider": "",
+    "providerAccountId": ""
+  },
+  {
+    "id": "kdel7s574nan5s6jg7grmxj7",
+    "name": "Steve",
+    "password": "$2a$10$/4oeWe7jgHc5IYd64yk7LegiywD1DeRmcX7XGuJSb03XURubhUuIC",
+    "admin": false,
+    "createdAt": "2025-03-08T08:52:52.799Z",
+    "providerType": "credentials",
+    "provider": "",
+    "providerAccountId": ""
+  },
+  {
+    "id": "l0g0j84vfmay4yiri48qyq2m",
+    "name": "Konstantin",
+    "password": "$2a$10$C57AhQxPzmlWRBfrLiEO5ecdudrcK1MxwI6232xZvrvr72NCo5EpK",
+    "admin": false,
+    "createdAt": "2025-03-08T09:02:41.064Z",
+    "providerType": "oauth",
+    "provider": "github",
+    "providerAccountId": "83877871"
+  }
+]
